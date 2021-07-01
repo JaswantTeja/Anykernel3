@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=LordKurama-V2 kernel by Abhishek(LordKurama)
+kernel.string=NaryTime kernel by NareshKumar(NaryVip)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
