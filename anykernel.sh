@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=NaryTime kernel by NareshKumar(NaryVip)
+kernel.string=Blush kernel by Jaswant M(JaswantTeja)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -14,8 +14,8 @@ device.name1=RMX1911
 device.name2=RMX2030
 device.name3=RMX1925
 device.name4=RMX1927
-device.name5=
-device.name6=
+device.name5=r5x
+device.name6=RMX1917
 supported.versions=
 supported.patchlevels=
 '; } # end properties
